@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C# and Js
 - I'm a beginer Coder looking to expand my knolagde
 - I Love Video games and lern fast with different tools and games
+- I Try to do ambitious projects that aare way out of my skill set
 
 <!---
 Virusnest/Virusnest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
