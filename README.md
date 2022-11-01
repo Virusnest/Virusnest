@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Virusnest
-- 👀 I’m interested in Coding languages Such As C#, Java, JavaScript, a little bit of python and C++
-- 🌱 I’m currently learning C# and Js
-- I'm a beginer Coder looking to expand my knolagde
-- I Love Video games and lern fast with different tools and games
-- I Try to do ambitious projects that aare way out of my skill set
+•That one person who keeps forgetting how to code because they don't do it enough.
+•Currently working with technical Minecraft
+•developing ethical hacking skills
 
 <!---
 Virusnest/Virusnest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
