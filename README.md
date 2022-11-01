@@ -1,6 +1,6 @@
-*That one person who keeps forgetting how to code because they don't do it enough.
-*Currently working with technical Minecraft
-*Developing ethical hacking skills
+* That one person who keeps forgetting how to code because they don't do it enough.
+* Currently working with technical Minecraft
+* Developing ethical hacking skills
 
 <!---
 Virusnest/Virusnest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
