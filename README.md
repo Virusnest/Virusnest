@@ -1,4 +1,3 @@
-* That one person who keeps forgetting how to code because they don't do it enough.
 * Currently working with technical Minecraft
 * Developing ethical hacking skills
 
